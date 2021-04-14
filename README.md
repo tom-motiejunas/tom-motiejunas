@@ -1,8 +1,8 @@
 Hello I'm Tomas Motiejūnas
 
-👉 Beginner at Front End
-👉 Learning React
-👉 Intrested in learning SASS, BootStrap, Redux/MobX
+👉 Beginner at Front End<br/> 
+👉 Learning React<br/>
+👉 Intrested in learning SASS, BootStrap, Redux/MobX<br/>
 👉 Currently you cannot reach me
 
 <!---
