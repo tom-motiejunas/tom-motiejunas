@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/7rGs4GL/banner.png)](https://github.com/tom-motiejunas)
+[![MasterHead](<img align="right" alt="Coding" width="100%" src="img src="https://i.ibb.co/7rGs4GL/banner.png">)](https://github.com/tom-motiejunas)
 
 Hello I'm Tomas Motiejūnas
 
