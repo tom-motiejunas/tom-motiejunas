@@ -1,14 +1,18 @@
-<img src="https://i.ibb.co/7rGs4GL/banner.png" style="max-width:100%;" title="Background image">
+<img src="https://github.com/tom-motiejunas/tom-motiejunas/blob/main/images/banner.png" title="Background image">
 
-👉 Beginner at Front End<br/> 
-👉 Learning React library<br/>
-👉 Intrested in learning SASS, BootStrap, Redux/MobX<br/>
-👉 Currently you cannot reach me
+<p align="center">
+<h2 align="center">About Me</h2>
+<h3 align="center">👉 Beginner at Front End<br/> </h3>
+<h3 align="center">👉 Learning React library<br/></h3>
+<h3 align="center">👉 Intrested in learning SASS, BootStrap, Redux/MobX<br/></h3>
+<br />
+</p align="center">
 
-<!---
-tom-motiejunas/tom-motiejunas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="center">Github Analytics ⚙</h2>
 
-[![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-motiejunas)](https://github.com/tom-motiejunas)
-
+<p align="center">
+<a href="https://github.com/tom-motiejunas">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tom-motiejunas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tom-motiejunas&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
