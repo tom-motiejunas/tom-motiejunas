@@ -1,6 +1,4 @@
-<img align="right" alt="Coding" width="100%" src="img src="https://i.ibb.co/7rGs4GL/banner.png">
-                                                                                               
-Hello I'm Tomas Motiejūnas
+<img src="https://i.ibb.co/7rGs4GL/banner.png" style="max-width:100%;" title="Background image">
 
 👉 Beginner at Front End<br/> 
 👉 Learning React library<br/>
