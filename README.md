@@ -1,5 +1,5 @@
-[![MasterHead](<img align="right" alt="Coding" width="100%" src="img src="https://i.ibb.co/7rGs4GL/banner.png">)](https://github.com/tom-motiejunas)
-
+<img align="right" alt="Coding" width="100%" src="img src="https://i.ibb.co/7rGs4GL/banner.png">
+                                                                                               
 Hello I'm Tomas Motiejūnas
 
 👉 Beginner at Front End<br/> 
