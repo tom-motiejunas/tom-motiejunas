@@ -2,9 +2,9 @@
 
 <p align="center">
 <h2 align="center">About Me</h2>
-<h3 align="center">👉 Beginner at Front End<br/> </h3>
-<h3 align="center">👉 Learning React library<br/></h3>
-<h3 align="center">👉 Intrested in learning SASS, BootStrap, Redux/MobX<br/></h3>
+<h3 align="center">👉 Front End developer<br/> </h3>
+<h3 align="center">👉 Learning React native, node.js<br/></h3>
+<h3 align="center">👉 Intrested in creating projects with Stripe, gun.js, redis<br/></h3>
 <br />
 </p align="center">
 
