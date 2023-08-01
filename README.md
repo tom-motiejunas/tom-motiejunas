@@ -2,9 +2,9 @@
 
 <p align="center">
 <h2 align="center">About Me</h2>
-<h3 align="center">👉 Front End developer<br/> </h3>
-<h3 align="center">👉 Learning React native, node.js<br/></h3>
-<h3 align="center">👉 Intrested in creating projects with Stripe, gun.js, redis<br/></h3>
+<h3 align="center">👉 Back End developer<br/> </h3>
+<h3 align="center">👉 Learning clean code<br/></h3>
+<h3 align="center">👉 interested in creating projects with Symfony, Laravel, Nest.js<br/></h3>
 <br />
 </p align="center">
 
