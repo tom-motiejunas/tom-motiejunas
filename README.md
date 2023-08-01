@@ -1,5 +1,3 @@
-<img src="https://github.com/tom-motiejunas/tom-motiejunas/blob/main/images/banner.png" title="Background image">
-
 <p align="center">
 <h2 align="center">About Me</h2>
 <h3 align="center">👉 Back End developer<br/> </h3>
